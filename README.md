@@ -3,7 +3,7 @@
 ### Author : Guyo Halake 18 Sept 2023
 ****
 ## Project Description
-This is me. I share about my learning journey, what i have learnt, skills and how to contact me.
+This is where I share about my learning journey, what i have learnt, skills and how to contact me.
 ******
 
 ## SCREENSHOTS
@@ -38,7 +38,7 @@ This is me. I share about my learning journey, what i have learnt, skills and ho
 > Run using live server
 *****
 ## Live Link
-Or you can access the web application directly via this [https://kahenya-anita.github.io/Portfolio101/](https://kahenya-anita.github.io/Portfolio101/)
+Or you can access the web application directly via this [https://github.com/GHalake530/Portfolio101.git](https://github.com/GHalake530/Portfolio101.git/)
 *****
 ## Dependencies
 - Google fonts
